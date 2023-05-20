@@ -69,7 +69,7 @@ ScrollReveal().reveal('.logo',{ origin:'left'});
 // ========================================================
 
 const typed =new Typed('.multiple-text',{
-  strings :['Frontend Developer','Backend Developer','Full Stack Developer'],
+  strings :['Software Engineer','Frontend Developer','Backend Developer','Full Stack Developer'],
   typeSpeed: 100,
   backSpeed: 100,
   typeDelay: 1000,
